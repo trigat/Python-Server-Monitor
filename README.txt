@@ -5,7 +5,7 @@ Python Server Monitor uses both Python and PowerShell for monitoring servers and
 This program was written in Python 3 on Windows 7.  It can probably run on Linux easily but you would have
 to check services with something other than PowerShell.
 
-It was written for testing purposes and may not be secure.
+Python Server Monitor was written for testing purposes.
 
 Please feel free to edit and improve this!
 
