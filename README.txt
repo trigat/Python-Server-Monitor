@@ -28,7 +28,7 @@ Please feel free to edit and improve this!
 5.  Run main.py
 
     You should be up and running.  Open your browser and enter your IP:port number into the URL bar.  Example:
-    http://10.1.177.198:8080
+    http://192.168.30.2:8080
 
 **Note**
 
