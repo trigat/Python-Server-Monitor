@@ -14,7 +14,7 @@ def run_ping(queue):
         print("Pinging")
         time.sleep(3)  # CHANGE TIME HERE
         try:
-            otherDir = 'log'  # specify log direcotry
+            otherDir = 'log'  # specify log directory
             origDir = os.getcwd()
             os.chdir(os.path.join(os.path.abspath(sys.path[0]), otherDir)) # switch to other dir
         except OSError:
